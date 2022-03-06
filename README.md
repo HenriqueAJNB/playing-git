@@ -5,9 +5,14 @@
 # Henrique adicionou uma linha!
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Danilo adicionou uma linha
 =======
 >>>>>>> 483cb5e64ac49260e34c220f76ea8957ffa262ad
 >>>>>>> refs/remotes/origin/main
 =======
 >>>>>>> a020b8d9b1ce70e9204ae7af57c4fa59b0c46b7d
+=======
+
+Estamos aprendendo git!
+>>>>>>> 51226a59fa4249b9f20757e5cf648253825be064
